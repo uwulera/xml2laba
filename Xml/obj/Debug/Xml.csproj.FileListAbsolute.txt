@@ -1,0 +1,22 @@
+C:\Users\Булат Камилович\source\repos\Xml\Xml\bin\Debug\Xml.exe.config
+C:\Users\Булат Камилович\source\repos\Xml\Xml\bin\Debug\Xml.exe
+C:\Users\Булат Камилович\source\repos\Xml\Xml\bin\Debug\Xml.pdb
+C:\Users\Булат Камилович\source\repos\Xml\Xml\obj\Debug\Xml.csproj.AssemblyReference.cache
+C:\Users\Булат Камилович\source\repos\Xml\Xml\obj\Debug\Xml.csproj.SuggestedBindingRedirects.cache
+C:\Users\Булат Камилович\source\repos\Xml\Xml\obj\Debug\Xml.Form1.resources
+C:\Users\Булат Камилович\source\repos\Xml\Xml\obj\Debug\Xml.Properties.Resources.resources
+C:\Users\Булат Камилович\source\repos\Xml\Xml\obj\Debug\Xml.csproj.GenerateResource.cache
+C:\Users\Булат Камилович\source\repos\Xml\Xml\obj\Debug\Xml.csproj.CoreCompileInputs.cache
+C:\Users\Булат Камилович\source\repos\Xml\Xml\obj\Debug\Xml.exe
+C:\Users\Булат Камилович\source\repos\Xml\Xml\obj\Debug\Xml.pdb
+C:\Users\valeria\Downloads\Xml\Xml\bin\Debug\Xml.exe.config
+C:\Users\valeria\Downloads\Xml\Xml\bin\Debug\Xml.exe
+C:\Users\valeria\Downloads\Xml\Xml\bin\Debug\Xml.pdb
+C:\Users\valeria\Downloads\Xml\Xml\obj\Debug\Xml.csproj.AssemblyReference.cache
+C:\Users\valeria\Downloads\Xml\Xml\obj\Debug\Xml.csproj.SuggestedBindingRedirects.cache
+C:\Users\valeria\Downloads\Xml\Xml\obj\Debug\Xml.Form1.resources
+C:\Users\valeria\Downloads\Xml\Xml\obj\Debug\Xml.Properties.Resources.resources
+C:\Users\valeria\Downloads\Xml\Xml\obj\Debug\Xml.csproj.GenerateResource.cache
+C:\Users\valeria\Downloads\Xml\Xml\obj\Debug\Xml.csproj.CoreCompileInputs.cache
+C:\Users\valeria\Downloads\Xml\Xml\obj\Debug\Xml.exe
+C:\Users\valeria\Downloads\Xml\Xml\obj\Debug\Xml.pdb

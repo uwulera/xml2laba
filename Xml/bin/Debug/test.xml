@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<plantsbook>
+	<plants>
+		<common>Кровавый корень</common>
+		<botanical>Sanguinaria canadensis</botanical>
+		<zone>4</zone>
+		<light>По большей части тень</light>
+	</plants>
+	<plants>
+		<common>Аквилегия</common>
+		<botanical>Aquilegia canadensis</botanical>
+		<zone>3</zone>
+		<light>По большей части тень</light>
+	</plants>
+</plantsbook>
